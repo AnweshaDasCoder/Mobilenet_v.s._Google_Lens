@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+}
+
+.copy_rightfooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;  
+    background-color: azure; 
+   }
+
+   #googy {
+       width: 20px;
+       height: 20px;
+   }
+
+   .img {
+       height: 300px;
+       width: 400px;
+   }
